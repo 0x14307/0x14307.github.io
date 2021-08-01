@@ -1,0 +1,21 @@
+body {
+     font-family: "Comic Sans MS", "Comic Sans", cursive;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+}
+div {
+     color:white;
+}
+.land_img {
+     margin-top: 10px;
+}
+.before_shit {
+     margin-top: 25px;
+}
+a {
+     color:white;
+}
+footer {
+     margin-top: 50px;
+}
