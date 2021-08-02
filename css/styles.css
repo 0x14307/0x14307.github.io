@@ -1,6 +1,6 @@
 body {
-     font-family: 'Brush Script MT';
-     align-items: center;
+     font-family: 'JetBrains Mono';
+     src: url('/fonts/JetBrainsMono-Regular.woff2');
      display: flex;
      justify-content: center;
 }
